@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+!/usr/bin/env bash
 FILE= script_output.txt
 
 if test -f "$FILE"; then
